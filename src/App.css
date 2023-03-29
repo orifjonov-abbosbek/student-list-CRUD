@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.student-list-title{
+  background-color: indigo;
+}
